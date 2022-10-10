@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React Library
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me shaqowerk@gmail.com
+- 📫 You can reach me on: shaqowerk@gmail.com
 
 <!---
 Bramasama/Bramasama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
