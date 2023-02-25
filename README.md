@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ibrahim Nur
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React Library
 - 💞️ I’m looking to collaborate on web development
 - 📫 You can reach me on: shaqowerk@gmail.com
 
